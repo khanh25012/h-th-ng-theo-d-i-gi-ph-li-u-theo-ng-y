@@ -9,6 +9,7 @@ MÔN HỌC: LẬP TRÌNH PYTHON
 GVHD : TS.ĐỖ DUY CỐP
 
 XÂY DỰNG HỆ THỐNG THEO DÕI GIÁ PHẾ LIỆU THEO TỪNG NGÀY🔄
+
 YÊU CẦU : 
  1. web.py: Đây là tệp chính của ứng dụng web của EM, chứa mã Python cho ứng dụng FastAPI.
    thực hiện việc gửi một yêu cầu HTTP đến một trang web (https://muaphelieuthinhphat.com/bang-gia-thu-mua-phe-lieu-hom-nay/)
