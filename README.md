@@ -26,5 +26,7 @@ YÊU CẦU :
 
 ( đã đóng gói project python (api) thành service với NSSM thành công,chick vào là ra project.)
 
-                      -- tạm thời em chưa tạo được cái sơ đồ ạ--
- 
+                                                    Sơ đồ hoạt động
+                  
+ ![ab33be75-1059-4faa-b953-21ab55531d21](https://github.com/khanh25012/h-th-ng-theo-d-i-gi-ph-li-u-theo-ng-y/assets/129476200/f9101f3d-abc4-426c-9e37-5259847fec63)
+
