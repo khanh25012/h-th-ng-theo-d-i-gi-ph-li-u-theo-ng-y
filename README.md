@@ -25,6 +25,6 @@ YÊU CẦU :
 4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db
 
 5. đã đóng gói project python (api) thành service với NSSM thành công,chick vào là ra project
-6. 
+
                       -- tạm thời em chưa tạo được cái sơ đồ ạ--
  
