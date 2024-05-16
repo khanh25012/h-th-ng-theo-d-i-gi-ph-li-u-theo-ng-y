@@ -17,13 +17,14 @@ YÊU CẦU :
    bằng cách sử dụng thư viện requests. Sau đó,  sử dụng thư viện BeautifulSoup để phân tích cú pháp HTML của trang web và trích xuất dữ liệu cần thiết.
 
 -->Cuối cùng, trả về dữ liệu đã trích xuất dưới dạng từ điển JSON.
+ 
+2.MSSQL :tạo db PhelieuDatabase ,table sat_vun để lưu id,tên sắt vụn và đơn giá.
 
-2.MSSQL :tạo db PhelieuDatabase ,table sat_vun để lưu id,tên sắt vụn và đơn giá
+3.node red: dùng gọi API và đẩy data thu được vào mssql.
 
-3.node red: dùng gọi API và đẩy data thu được vào mssql
+4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db.
 
-4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db
-5. đã đóng gói project python (api) thành service với NSSM thành công,chick vào là ra project
+( đã đóng gói project python (api) thành service với NSSM thành công,chick vào là ra project.)
 
                       -- tạm thời em chưa tạo được cái sơ đồ ạ--
  
