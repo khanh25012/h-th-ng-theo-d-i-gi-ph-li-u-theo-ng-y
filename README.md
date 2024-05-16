@@ -20,7 +20,7 @@ YÊU CẦU :
  
 2.MSSQL :tạo db PhelieuDatabase ,table sat_vun để lưu id,tên sắt vụn và đơn giá.
 
-3.node red: dùng gọi API và đẩy data thu được vào mssql.
+3.node red: gọi API  và đẩy data thu được vào mssql.
 
 4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db.
 
