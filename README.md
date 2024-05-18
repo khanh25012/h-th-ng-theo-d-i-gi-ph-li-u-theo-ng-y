@@ -20,11 +20,22 @@ YÊU CẦU :
  
 2.MSSQL :tạo db PhelieuDatabase ,table sat_vun để lưu id,tên sắt vụn và đơn giá.
 
+![e0ebd7af-e892-49e9-b267-d13a47bbf4b7](https://github.com/khanh25012/h-th-ng-theo-d-i-gi-ph-li-u-theo-ng-y/assets/129476200/34233978-f7ed-4e10-a28c-13878263c5d2)
+
+
+    
+
+
+                                     ------ảnh minh họa node red lấy các giá trị chỉ định từ api về MSSQL--------
+
+![f7a8b389-afab-40b1-9e8a-fe3ecf0e58f4](https://github.com/khanh25012/h-th-ng-theo-d-i-gi-ph-li-u-theo-ng-y/assets/129476200/448855ea-19ce-40c7-b7ed-5b14de368f4b)
+
+
 3.node red: gọi API  và đẩy data thu được vào mssql.
 
 4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db.
 
-( đã đóng gói project python (api) thành service với NSSM thành công,chick vào là ra project.)
+( đã đóng gói project python (api) thành service với NSSM thành công,click vào là ra project.)
 
                                                     Sơ đồ hoạt động
                   
