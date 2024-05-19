@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    width: 50%; /* Giảm kích thước của bảng xuống 50% */
+    margin: auto; /* Canh giữa bảng */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 4px; /* Giảm padding của các ô */
+}
+
+th {
+    background-color: #f2f2f2;
+}
