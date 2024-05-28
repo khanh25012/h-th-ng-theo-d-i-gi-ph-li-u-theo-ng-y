@@ -34,11 +34,14 @@ tạo producer InsertSatVun để lấy data từ node truyền về và tạo p
   ![datasql](https://github.com/khanh25012/he-thong-theo-doi-gia-phe-lieu/assets/129476200/7ab49e0a-a9bf-4118-94dc-17b2c0fd742a)
 
     
+3.api select data lấy data lưu trong mssql hiện ra api
+
+
+   ![selectdata](https://github.com/khanh25012/he-thong-theo-doi-gia-phe-lieu/assets/129476200/6fa24f03-1c59-4ed0-9528-315e7f4b1e69)
 
 
 
-
-4.web hiển thị ( HTML ) :về giá sắt vụn và các loại vật liệu phế liệu khác nhau ,lấy từ db.
+4.web hiển thị ( HTML,css,js ) :call ajax api select data ,lấy data từ api select data và show lên web ,data lúc này đang lỗi stt nên dùng var idCounter = 1;để gán cho stt tăng dần từ 1
 
    ![ketqua](https://github.com/khanh25012/he-thong-theo-doi-gia-phe-lieu/assets/129476200/a2a59a20-08f7-4db2-b1b7-5def63ac857a)
 
