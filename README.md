@@ -50,6 +50,8 @@ tạo producer InsertSatVun để lấy data từ node truyền về và tạo p
 
 
                                                     Sơ đồ hoạt động
-                  
-   ![ab33be75-1059-4faa-b953-21ab55531d21](https://github.com/khanh25012/h-th-ng-theo-d-i-gi-ph-li-u-theo-ng-y/assets/129476200/f9101f3d-abc4-426c-9e37-5259847fec63)
+
+
+  ![sodo](https://github.com/khanh25012/he-thong-theo-doi-gia-phe-lieu/assets/129476200/342e2437-41c5-4c45-8a2a-602c8f385c3d)
+
 
